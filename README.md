@@ -37,7 +37,7 @@ npm run dev
 
 ## Live Demo
 
-Coming soon.
+https://movie-app-psi-black.vercel.app/
 
 ## Author
 
